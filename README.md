@@ -1,0 +1,1 @@
+# kriging_prediction_output.R
